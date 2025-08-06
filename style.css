@@ -1,0 +1,342 @@
+.leftcolbar{
+
+    width: 60px;
+    height: 100%;
+    border-right: 1px solid black;
+    position:fixed;
+}
+
+.logo{
+    height: 30px;
+    width: 30px;
+     margin-left: 10px;
+    margin-top: 32px;
+    border-radius: 25%;
+    
+
+}
+
+.navbar{
+    height: 50px;
+    width: 94.5%;
+    
+    margin-left: 5.5%;
+    display: flex;
+   background-color: white;
+   
+    position:fixed;
+   
+
+}
+
+.search{
+    
+    width: 95%;
+}
+
+.pic{
+   
+    width: 5%;
+    padding-left:21px;
+    padding-top: 5px; 
+}
+
+
+.body{
+    width: 94%;
+    height: 1000px;
+    
+    margin-left:6%;
+    padding-top: 60px;
+   
+}
+
+                         
+.box>a{
+    position: relative;
+   top:20px;
+   left: 320px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(224, 47, 47);
+    display: none;
+    width: 40px;
+}   
+
+.box1>a{
+    position: relative;
+    top:20px;
+    left: 200px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(224, 47, 47);
+    display: none;
+    width: 40px;
+}
+.box2>a{
+    position: relative;
+    top:20px;
+    left: 200px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(224, 47, 47);
+    display: none;
+    width: 40px;
+}
+
+.box3>a{
+    position: relative;
+    top:20px;
+    left: 200px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(224, 47, 47);
+    display: none;
+    width: 40px;
+}
+
+.box4>a{
+    position: relative;
+    top:20px;
+    left: 300px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(224, 47, 47);
+    display: none;
+    width: 40px;
+}
+.box5>a{
+    position: relative;
+    top:20px;
+    left: 200px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(224, 47, 47);
+    display: none;
+    width: 40px;
+}
+
+.box6>a{
+    position: relative;
+    top:20px;
+    left: 280px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(224, 47, 47);
+    display: none;
+    width: 40px;
+}
+
+.box7>a{
+    position: relative;
+    top:20px;
+    left: 200px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(224, 47, 47);
+    display: none;
+    width: 40px;
+}
+
+.box8>a{
+    position: relative;
+    top:20px;
+    left: 200px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(224, 47, 47);
+    display: none;
+    width: 40px;
+}
+.box9>a{
+    position: relative;
+    top:20px;
+    left: 600px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(224, 47, 47);
+    display: none;
+    width: 40px;
+}
+.box10>a{
+    position: relative;
+    top:20px;
+    left: 200px;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(224, 47, 47);
+    display: none;
+    width: 40px;
+}
+
+
+
+
+.box{
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+    float: left;
+    margin: 10px;
+    background-image:url(images/Koala.jpg);
+    background-size: cover;
+}
+
+.box1{
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    float: left;
+    margin: 10px;
+    background-image:url(images/Tulips.jpg);
+    background-size: cover;
+}
+
+.box2{
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    float: left;
+    margin: 10px;
+    background-image:url(images/Hydrangeas.jpg);
+    background-size: cover;
+}
+
+.box3{
+    height: 400px;
+    width: 300px;
+    border-radius: 15px;
+    float: left;
+    margin: 10px;
+    background-image:url(images/Lighthouse.jpg);
+    background-size: cover;
+}
+
+.box4{
+    height: 300px;
+    width: 400px;
+    border-radius: 15px;
+    float: left;
+    margin: 10px;
+    background-image:url(images/Penguins.jpg);
+    background-size: cover;
+}
+
+.box5{
+    height: 400px;
+    width: 300px;
+    border-radius: 15px;
+    float: left;
+    margin: 10px;
+    background-image:url(images/natural.jpeg);
+    background-size: cover;
+}
+
+.box6{
+    height: 300px;
+    width: 370px;
+    border-radius: 15px;
+    float: left;
+    margin: 10px;
+    background-image:url(images/pic11.jpg);
+    background-size: cover;
+}
+.box7{
+    height: 400px;
+    width: 300px;
+    border-radius: 15px;
+    float: left;
+    margin: 10px;
+    background-image:url(images/blackbb.jpeg);
+    background-size: cover;
+    
+}
+.box8{
+    height: 400px;
+    width: 300px;
+    border-radius: 15px;
+    float: left;
+    margin: 10px;
+    background-image:url(images/Desert.jpg);
+    background-size: cover;
+}
+.box9{
+    height: 500px;
+    width: 700px;
+    border-radius: 15px;
+    float: left;
+    margin: 10px;
+    background-image:url(images/pic1.jpg);
+    background-size: cover;
+}
+.box10{
+    height: 400px;
+    width: 300px;
+    border-radius: 15px;
+    float: left;
+    margin: 10px;
+    background-image:url(images/white\ .jpeg);
+    background-size: cover;
+}
+.box:hover>a{
+    display: block;
+    
+}
+.box1:hover>a{
+    display: block;
+    
+}
+
+.box2:hover>a{
+    display: block;
+}
+
+.box3:hover>a{
+    display: block;
+}
+.box4:hover>a{
+    display: block;
+}
+
+.box5:hover>a{
+    display: block;
+}
+.box6:hover>a{
+    display: block;
+}
+.box7:hover>a{
+    display: block;
+}
+
+.box8:hover>a{
+    display: block;
+}
+.box9:hover>a{
+    display: block;
+}
+
+.box10:hover>a{
+    display: block;
+}
